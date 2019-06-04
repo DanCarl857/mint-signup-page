@@ -1,2 +1,2 @@
-# mintt-signup-page
+# mint-signup-page
 Signup page for the mint website
